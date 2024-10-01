@@ -8,9 +8,5 @@
   status = 200
   force = true
 
-[[redirects]]
-  from = "/*"
-  to = "https://kduyetman.online/:splat"
-  status = 301
-  force = true
+
 
